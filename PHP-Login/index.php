@@ -8,7 +8,6 @@
   }
 ?>
 
-
 <!-- Show password protected content down here -->
 
 <!DOCTYPE html>
